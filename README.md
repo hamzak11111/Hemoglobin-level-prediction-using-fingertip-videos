@@ -1,4 +1,4 @@
-# Non-Invasive Anemia Prediction from Fingertip Videos
+# Non-Invasive Hemoglobin Level Prediction from Fingertip Videos
 
 This repository contains our work on predicting hemoglobin (Hb) levels
 using fingertip video recordings. We build upon the dataset and baseline
